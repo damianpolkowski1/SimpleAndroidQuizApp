@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Android 1 - Quiz</string>
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Pomiń</string>
+
+    <!--Questions-->
+    <string name="q_biggest_desert">Sahara to największa pustynia na świecie.</string>
+    <string name="q_longest_river">Amazonka jest najdłuższą rzeką na świecie.</string>
+    <string name="q_smallest_continent">Australia to najmniejszy kontynent.</string>
+    <string name="q_biggest_country_area">Rosja ma największą powierzchnię spośród wszystkich krajów na świecie.</string>
+    <string name="q_mount_everest">Mount Everest znajduje się w Nepalu.</string>
+    <string name="q_egypt_continent">Egipt leży na dwóch kontynentach: w Afryce i w Azji.</string>
+    <string name="q_europe_countries">W Europie znajduje się więcej niż 50 krajów.</string>
+    <string name="q_deepest_lake">Jezioro Bajkał jest najgłębszym jeziorem na świecie.</string>
+    <string name="q_biggest_sweet_lake">Morze Kaspijskie jest największym jeziorem słodkowodnym na świecie.</string>
+
+    <!--Messages-->
+    <string name="correct_answer">Poprawna odpowiedź</string>
+    <string name="incorrect_answer">Niepoprawna odpowiedź</string>
+    <string name="skipped_question">Pominięto pytanie</string>
+    <string name="answer_was_shown">Wykorzystano już podpowiedź!</string>
+</resources>
